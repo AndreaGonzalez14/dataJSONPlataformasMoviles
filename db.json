@@ -190,6 +190,24 @@
     },
     "phone": "0999039732",
     "photo": "https://media.gettyimages.com/photos/white-cloud-in-dark-sky-2547-picture-id1155235411?k=6&m=1155235411&s=612x612&w=0&h=bTIZkr5OXVRoSb8Vxpj3XknRG5JXRNv0v69ZroCQJdo="
+    },
+    {
+    "id": 11,
+    "name": "Daniel Domínguez ",
+    "username": "ddominguez",
+    "email": "ddominguezr@est.ups.edu.ec",
+    "address": {
+      "street": "Teniente Hugo Ortiz",
+      "suite": "Casa 2 pisos",
+      "city": "Quito",
+      "zipcode": "170606",
+      "geo": {
+        "lat": "-0.2747173",
+        "lng": "-78.5398699"
+      }
+    },
+    "phone": "0984317010",
+    "photo": "https://p4.wallpaperbetter.com/wallpaper/99/379/781/sentinel-irelia-irelia-league-of-legends-league-of-legends-riot-games-hd-wallpaper-preview.jpg"
     }
   ]
 }
