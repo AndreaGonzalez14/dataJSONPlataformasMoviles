@@ -7,5 +7,43 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "estudiantes": [
+    {
+      "id": 1,
+      "name": "Andrea González",
+      "username": "AndreaGonzalez14",
+      "email": "agonzalezl6@est.ups.edu.ec",
+      "address": {
+      "street": "Lloque Yupanqui",
+      "suite": "Casa 2 pisos",
+      "city": "Quito",
+      "zipcode": "170805",
+      "geo": {
+        "lat": "-0.288097302641675",
+        "lng": "-78.49080871861874"
+      }
+    },
+    "phone": "0992313269",
+    "photo": "https://i0.wp.com/i.pinimg.com/originals/68/b5/da/68b5da5de55859e7385924b2a78ccd5a.png"
+    },
+    {
+      "id": 2,
+      "name": "Anthony Tandalla",
+      "username": "atandalla",
+      "email": "atandalla@est.ups.edu.ec",
+      "address": {
+      "street": "Gonzalo Escudero",
+      "suite": "Tercer piso",
+      "city": "Quito",
+      "zipcode": "170410",
+      "geo": {
+        "lat": "-0.225508",
+        "lng": "-78.487617"
+      }
+    },
+    "phone": "0999843386",
+    "photo": "https://holatelcel.com/wp-content/uploads/2018/11/HEAD-Shrek-reboot.jpg"
+    }
+  ]
 }
